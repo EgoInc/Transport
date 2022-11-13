@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Pr1\MyApiApp.ConsoleApp\obj\Debug\net6.0\TransportApp.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Pr1\MyApiApp.ConsoleApp\obj\Debug\net6.0\TransportApp.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Pr1\MyApiApp.ConsoleApp\obj\Debug\net6.0\TransportApp.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Pr1\MyApiApp.ConsoleApp\obj\Debug\net6.0\TransportApp.ConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Pr1\MyApiApp.ConsoleApp\obj\Debug\net6.0\TransportApp.ConsoleApp.csproj.CoreCompileInputs.cache
